@@ -1,11 +1,32 @@
 ul, ul li {
+	color: #f17b85;
 	display: block;
 	list-style: none;
 	margin: 0;
 	padding: 0;
+	text-size-adjust: 50px;
 }
 
 ul li {
 	display: inline;
 	white-space: nowrap;
 }
+p {
+	background: #f17b85;
+	font-weight: bold;
+	font-style: italic;
+	word-wrap: normal;
+	text-align:center;
+}
+h2 {
+	color: rgb(59, 0, 253);
+	text-align: center;
+	text-size-adjust: 100px;
+  }
+  body {
+	background: yellow;
+  }
+ 
+
+
+
